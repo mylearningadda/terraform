@@ -5,7 +5,7 @@ variable "aws_region" {
 
 variable "ami_id" {
     default = "ami-a0cfeed8"
-    description = "ami-08305dd8ab642ad8c linux machine"
+    description = "linux machine"
 }
 
 variable "instance_type" {
